@@ -1,5 +1,5 @@
-quickstack (1.0-1) unstable; urgency=low
+quickstack (20121211-1) unstable; urgency=low
 
-  * Initial release (Closes: #1234)
+  * Initial release.
 
  -- Giuseppe Lavagetto <glavagetto@wikimedia.org>  Mon, 20 Oct 2014 11:14:28 +0200
