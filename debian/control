@@ -1,14 +1,16 @@
 Source: quickstack
 Section: debug
 Priority: optional
-Maintainer: Giuseppe Lavagetto <glavagetto@wikimedia.org>
+Maintainer: Wikimedia Technical Operations <ops@lists.wikmedia.org>
+Uploaders: Giuseppe Lavagetto <glavagetto@wikimedia.org>,
+           Faidon Liambotis <faidon@wikimedia.org>
 Build-Depends: debhelper (>= 9),
   cmake,
   binutils-dev,
   libelf-dev,
   libiberty-dev,
   zlib1g-dev
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://github.com/yoshinorim/quickstack/
 
 Package: quickstack

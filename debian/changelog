@@ -1,3 +1,12 @@
+quickstack (20161026-1) unstable; urgency=medium
+
+  * New upstream git snapshot.
+  * Change Maintainer to TechOps, add myself to Uploaders to avoid spurious
+    NMU warnings.
+  * Bump Standards-Version to 3.9.8.
+
+ -- Faidon Liambotis <faidon@wikimedia.org>  Fri, 10 Feb 2017 23:56:36 +0200
+
 quickstack (20121211-1) unstable; urgency=low
 
   * Initial release.
