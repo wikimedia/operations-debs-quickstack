@@ -1,3 +1,9 @@
+quickstack (20161026-2) bullseye-wikimedia; urgency=medium
+
+  * Rebuild for bullseye T275873
+
+ -- Moritz Mühlenhoff <mmuhlenhoff@wikimedia.org>  Wed, 07 Apr 2021 10:26:52 +0200
+
 quickstack (20161026-1) unstable; urgency=medium
 
   * New upstream git snapshot.
